@@ -5,3 +5,24 @@ dark-blue: #0a2c42;
 grey: #bfbfbf;
 font-family: Arial, Helvetica, sans-serif;
 */
+.beerHome {
+  height: 200px;
+}
+
+.homeStyle {
+  padding-top: 20px;
+}
+
+.card img {
+  height: 400px;
+  width: 100px;
+  object-fit: cover;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 20px;
+  padding-top: 20px;
+}
+
+.container {
+  text-align: center;
+}
